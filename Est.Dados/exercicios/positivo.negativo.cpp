@@ -1,23 +1,23 @@
-#include <iostream>
+# include <iostream>
 using namespace std;
 
 int main()
 {
-	int num;
+	int n;
 	
-	cout << "Digite um numero:";
-		cin >> num;
+	cout << "digite um numero:";
+	cin >> n;
 	
-	if (num != 0){
-		if (num >=1){
-			cout << "o numero e positivo";
+	if (n != 0){
+		if (n >= 1){
+			cout << "numero e positivo";
 		}
-		else{
-			cout << "o numero e negativo";
+		else {
+			cout << "numero e negatico";
 		}
 	}
 	else{
-		cout << "o numero e 0";
+		cout << "numero e 0";
 	}
 	
 	return 0;
