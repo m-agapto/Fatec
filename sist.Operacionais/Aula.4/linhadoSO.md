@@ -54,7 +54,7 @@ Abaixo, apresentamos uma **linha do tempo descritiva** detalhando a árvore gene
 
 # Linha do Tempo e Evolução do Sistema Operacional do Xbox Series X
 
-<img width="1000" height="920" alt="xboca" src="https://github.com/user-attachments/assets/c7047190-d5ee-4186-bbb5-92c2e1c3e987" />
+<img width="600" height="410" alt="xboca" src="https://github.com/user-attachments/assets/c7047190-d5ee-4186-bbb5-92c2e1c3e987" />
 
 
 ---
@@ -147,7 +147,7 @@ O sistema operacional do Xbox Series X executa **múltiplos sistemas operacionai
  
  # Linha do Tempo e Evolução do Sistema Operacional do Nintendo Switch
 
-<img width="1000" height="806" alt="ninvento" src="https://github.com/user-attachments/assets/0f0f02ea-5b5b-4cc6-a919-db4cf93b0677" />
+<img width="600" height="503" alt="ninvento" src="https://github.com/user-attachments/assets/0f0f02ea-5b5b-4cc6-a919-db4cf93b0677" />
 
 
 ---
@@ -238,7 +238,7 @@ O **Horizon** foi construído do zero focando em inicialização rápida, segura
 
 4. # Linha do Tempo e Evolução do Sistema Operacional do Steam Deck
 
-<img width="1080" height="1350" alt="stinho" src="https://github.com/user-attachments/assets/6226253c-c296-4c6b-be00-1efe95d0ff8f" />
+<img width="640" height="775" alt="stinho" src="https://github.com/user-attachments/assets/6226253c-c296-4c6b-be00-1efe95d0ff8f" />
 
 
 ---
