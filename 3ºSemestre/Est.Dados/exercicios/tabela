@@ -1,0 +1,29 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+void imp(string dados[], string tab[][3])
+{
+	for(int i=0;i<4;i++){
+			cout << dados[i] << "	";
+		for(int j=0;j<3;j++){
+				cout << tab[i][j];
+			}
+		}	
+}
+
+int main()
+{
+	string dados [4] = {"codigo","produto","valor do"," valor em estoque"};
+	string tab[4][3];
+	
+	
+	for(int i=0;i<4;i++){
+		for(int j=0;j<3;j++){
+			cout << "digite o " << j+1 << " " << dados[i] << "do produto" << endl;
+			cin >> tab[i][j];
+		}
+	}	
+	imp(dados, tab);
+	return 0;
+}
